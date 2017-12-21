@@ -3,7 +3,7 @@
 
 ## Overview
 
-Hi! Welcome to MineSwifter: The Taylor Swift-themed of the tradiitonal MineSweeper game.
+Hi! Welcome to MineSwifter: The Taylor Swift-themed version of the tradiitonal MineSweeper game.
 
 In this version, you will reveal squares while using Taylor Swift to flag Kanye West bombs!
 Can you correctly flag all Kanyes?
